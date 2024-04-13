@@ -1,0 +1,17 @@
+{
+  "name": "photo-journal",
+  "version": "0.0.1",
+  "description": "Organize photos and easily search for them",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "photo",
+    "journal",
+    "tags",
+    "labels"
+  ],
+  "author": "Kokrobitey Institute",
+  "license": "ISC"
+}
